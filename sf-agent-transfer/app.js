@@ -7,6 +7,4 @@ var app    = new Application(null, config);
 var server = new Server(config, app);
 
 server.start();
-//sdk.registerBot(require('./HTSABI_Bot.js'));
 sdk.registerBot(require('./botkit.js'));
-//sdk.registerBot(require('./brandFamilyApp.js'));
