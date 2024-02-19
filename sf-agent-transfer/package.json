@@ -1,0 +1,38 @@
+{
+  "name": "BotKit",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Koredotcom/BotKit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koredotcom/BotKit/issues"
+  },
+  "homepage": "https://github.com/Koredotcom/BotKit",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "jsforce": "^1.10.1",
+    "jwt-simple": "^0.5.6",
+    "lodash": "^4.17.21",
+    "log4js": "^6.3.0",
+    "morgan": "^1.10.0",
+    "node-cache": "^5.1.2",
+    "node-schedule": "^2.0.0",
+    "redis": "^3.0.2",
+    "request-promise": "^4.2.6",
+    "url-template": "^2.0.8"
+  }
+}

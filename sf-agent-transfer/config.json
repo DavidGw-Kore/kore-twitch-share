@@ -1,0 +1,27 @@
+{
+    "server": {
+        "port": 8004
+    },
+    "app": {
+        "apiPrefix" : "",
+        "url" : ""
+    },
+    "credentials": {
+        "appId": "",
+        "apikey": ""
+    },
+    "bot":{
+         "name":"",
+         "id":""
+    },
+    "redis": {
+        "options": {
+            "host": "localhost",
+            "port": 6379
+        },
+        "available": false,
+        "ttl":240
+    },
+    "log_level": "debug",
+    "sfdc_config_file":"./salesforce_config_prod.json"
+}

@@ -1,0 +1,21 @@
+{
+  "live_agent": {
+    "liveAgentUrl": "",
+    "organizationId": "",
+    "deploymentId": "",
+    "screenResolution": "1900x1080",
+    "userAgent": "Mozilla/5.0",
+    "apiVersion": "40",
+    "language": "en-US",
+    "buttonId": ""
+  }
+  "oauth": {
+    "token_uri": "",
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "",
+    "username": "",
+    "password": ""
+  },
+  "api_uri": ""
+}

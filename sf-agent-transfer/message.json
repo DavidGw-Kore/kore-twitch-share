@@ -1,0 +1,12 @@
+{
+    "chatEndedMsg" : "The representative has ended your chat. If you need help from me with anything else please say it now.",
+    "chatRequestFailMsg":"Sorry! It looks like we missed each other.  We would love to hear from you, so please check back with us at a later time!",
+    "agentAssignMsg":"A support agent will be assigned to you.",
+    "sessionClosedMsg":"The representative has ended your chat. If you need help from me with anything else please say it now.",
+    "onExpireMessage":"Your chat conversation has ended after too long a period of inactivity. Let us know if we can be of service with anything else",
+    "noAgentAvailable":"Sorry! It looks like we missed each other.  We would love to hear from you, so please check back with us at a later time!",
+    "welcomeMessage":{"nl":"Hallo, ik ben Hoppy de virtuele assistent.","en1":"Nice to meet you","en2":"Welcome back"},
+    "anythingElseAgentFailedDialog":"AnythingElseDialog scenario agentfailed",
+    "anythingElseAgentSuccessDialog": "AnythingElseDialog scenario agentsuccess",
+    "howToHelpTask": "How To Help Task"
+}
